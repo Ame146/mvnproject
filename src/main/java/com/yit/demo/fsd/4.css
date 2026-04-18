@@ -1,0 +1,16 @@
+
+img {
+            width: 200px;
+            height: 140px;
+            border: 5px solid black;
+            margin-top: 10px;
+        }
+
+        button {
+            padding: 5px 10px;
+            background: #000;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+       
